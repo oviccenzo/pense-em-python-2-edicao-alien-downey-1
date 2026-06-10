@@ -1,3 +1,5 @@
+# 4. Faça um programa que leia 2 números positivos e imprima o menor deles.
+
 num1 = int(input('Digite um numero: '))
 num2 = int(input('Digite dois numero: '))
 
